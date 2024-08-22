@@ -1,5 +1,5 @@
 ```
-mkdir cmd pkg/handlers pkg/models pkg/config pkg/services pkg/middleware pkg/routes pkg/utils
+mkdir cmd pkg pkg/handlers pkg/models pkg/config pkg/services pkg/middleware pkg/routes pkg/utils
 ```
 
 ```
